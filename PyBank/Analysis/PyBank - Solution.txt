@@ -1,0 +1,7 @@
+Python Homework Solution - David Allan Hutchinson 
+ 
+Total Months : 86
+ Total:  $38382578
+ Average Change: $446309.05
+ Greatest Increase in Profits: Sep-2016 ($1170593)
+ Greatest Decrease in Profits: Apr-2010 ($-1196225)
